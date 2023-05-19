@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The End Is Not The Ending--But Only The Beginning
+=======
+
+>>>>>>> 0ed46c1260f5720f99870790a8c76857fc991c25
